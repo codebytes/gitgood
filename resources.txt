@@ -1,2 +1,0 @@
-git visualization
-http://git-school.github.io/visualizing-git/#free
