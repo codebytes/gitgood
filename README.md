@@ -2,6 +2,11 @@
 
 A Repo with utilites and scripts for my "Git Good with Advanced Git" Talk
 
+## Recordings
+
+- [PowerShell.org](https://www.youtube.com/watch?v=0TjsAkLdMqM)
+- [DevOps Columbia — Advanced Git](https://www.youtube.com/watch?v=aDv_kj6cCVw)
+
 ## Resources
 
 - Git visualization: https://git-school.github.io/visualizing-git/
